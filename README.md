@@ -1,8 +1,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-<h2 align="center">👋 Hello! I'm Athul.</h2>
 
 
 I'm Muazzem Hossain, a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. 
