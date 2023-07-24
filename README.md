@@ -19,15 +19,16 @@ Feel free to explore the code, open issues, and submit pull requests if you find
 
 I'm well-versed in a variety of technologies, including but not limited to:
 
-- Programming Languages: Python, JavaScript, Java
-- Frameworks: React, Node.js, Django
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker
+- **Programming Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** Flask, Django, Django-REST
+- **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
+- **Integrations:** PayPal, Oauth2, boto3, Bkash, Google Analytics, Google Tag Manager, Clarity.
+- **Tools:** Git, Docker
 - ...and much more!
 
 ## 🌱 Learning and Growth
 
-Learning is a lifelong journey, and I'm always eager to enhance my skills. Currently, I'm exploring [New Technology or Skill] and working on [Current Learning Project].
+Learning is a lifelong journey, and I'm always eager to enhance my skills. Currently, I'm exploring **Google Cloud Platform**.
 
 ## 🤝 Let's Connect
 
