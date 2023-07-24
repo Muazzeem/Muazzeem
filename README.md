@@ -11,7 +11,7 @@ I'm Muazzem Hossain, a passionate self-taught full-stack web developer and a fre
 - - 💬 ask me about anything, I am happy to help;
 - ⚡ Fun fact: I am a Big Fan of the :zap: emoji
   
-Projects <img width="48" height="48" src="https://img.icons8.com/color/40/project-management.png" alt="project-management"/>:
+Projects <img width="48" height="48" src="https://img.icons8.com/color/30/project-management.png" alt="project-management"/>:
 Here are some of the projects you can find in this repository:
 
 🌐 Web App for Online Shopping
@@ -20,7 +20,7 @@ Description: An e-commerce platform built with React and Node.js, allowing users
 Repository: online-shopping-webapp
 📊 Data Analysis of Financial Markets
 
-Get in Touch <img width="48" height="48" src="https://img.icons8.com/color/40/paper-plane.png" alt="paper-plane"/>:
+Get in Touch <img width="48" height="48" src="https://img.icons8.com/color/30/paper-plane.png" alt="paper-plane"/>:
 I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me via email at your.email@example.com or connect with me on <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 Let's Collaborate :handshake:
