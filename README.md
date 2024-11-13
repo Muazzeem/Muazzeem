@@ -2,6 +2,9 @@
 
 Hey there! Thanks for dropping by. 👋 Here's a little bit about myself and what you can find in this repository.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishanpoudel&label=Profile%20views&color=0e75b6&style=plastic" alt="mishanpoudel" /> </p>
+
+
 ## 🙋‍♂️ About Me
 
 I'm **Muazzem**, a passionate developer and tech enthusiast. My journey in the world of programming has been an exciting one, and I love exploring new technologies and building innovative projects.
